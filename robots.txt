@@ -1,0 +1,14 @@
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: rogerbot
+
+Disallow: /
+
+User-agent: dotbot
+
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
